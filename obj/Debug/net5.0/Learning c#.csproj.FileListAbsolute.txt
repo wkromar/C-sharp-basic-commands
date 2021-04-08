@@ -1,0 +1,16 @@
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\bin\Debug\net5.0\Learning c#.exe
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\bin\Debug\net5.0\Learning c#.deps.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\bin\Debug\net5.0\Learning c#.runtimeconfig.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\bin\Debug\net5.0\Learning c#.runtimeconfig.dev.json
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\bin\Debug\net5.0\Learning c#.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\bin\Debug\net5.0\ref\Learning c#.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\bin\Debug\net5.0\Learning c#.pdb
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\Learning c#.csprojAssemblyReference.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\Learning c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\Learning c#.AssemblyInfoInputs.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\Learning c#.AssemblyInfo.cs
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\Learning c#.csproj.CoreCompileInputs.cache
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\Learning c#.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\ref\Learning c#.dll
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\Learning c#.pdb
+C:\Users\Woodrow Kromar\Documents\Learning c#\C# setup\obj\Debug\net5.0\Learning c#.genruntimeconfig.cache
